@@ -1,0 +1,24 @@
+E-commerce Sales Dashboard 📅
+------------------------------------------------------------------------------------------
+
+📰💡Exciting News: My Latest E-commerce Sales Dashboard is Here! 
+
+Hey everyone! I’m thrilled to share a project I’ve been working on that dives deep into the world of e-commerce. As online shopping becomes the norm, businesses need powerful tools to understand their sales data. That’s where my new E-commerce Sales Dashboard comes in!
+
+🔍 What’s the Goal? Imagine you’re running an online store and want to see how different product categories are performing. This dashboard lets you do just that! You can select a product category and instantly see trends month-by-month and product-by-product. Cool, right?
+
+Here’s What I Did: -
+Data Source: I used a sample E-commerce database to get started.
+Shipping Days Analysis: Created a histogram to see how long shipping takes.
+Sales & Profit Table: Compiled month-wise sales and profit data in a sheet I called ‘Working Sheet’.
+Regional Sales: Added a table to break down sales by region.
+User Control: Built a combo box so you can choose different product categories.
+Visuals: Designed column charts to visualize month-wise and region-wise data.
+Integration: Linked everything together with the combo box for seamless interaction.
+Final Touch: Assembled all these elements into a comprehensive dashboard.
+
+This project was a meticulous effort to meet the project’s requirements, and can help businesses gain valuable insights into their sales data.
+
+Let’s make data work for us! 💪
+
+#Ecommerce #SalesDashboard #DataAnalysis #BusinessIntelligence #DataVisualization #Excel #DashboardDesign
